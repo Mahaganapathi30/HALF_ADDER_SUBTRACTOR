@@ -58,6 +58,8 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
+**Result:**
+
 Half adder
 
 <img width="1919" height="1020" alt="Screenshot 2025-11-21 225403" src="https://github.com/user-attachments/assets/b2fe53f0-39f3-4557-b52a-b5eb82ea30d5" />
@@ -71,4 +73,3 @@ Half subracter
 
 
 
-**Result:**
