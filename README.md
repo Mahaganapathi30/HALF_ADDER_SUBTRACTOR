@@ -70,8 +70,6 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
-**Result:**
-
 Half adder
 
 <img width="1919" height="1020" alt="Screenshot 2025-11-21 225403" src="https://github.com/user-attachments/assets/b2fe53f0-39f3-4557-b52a-b5eb82ea30d5" />
@@ -80,6 +78,11 @@ Half adder
 Half subracter
 
 <img width="1915" height="1019" alt="Screenshot 2025-11-21 225934" src="https://github.com/user-attachments/assets/857752fe-5649-4272-87f3-3fa0f0b8c947" />
+
+
+**Result:**
+Thus the design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
+
 
 
 
